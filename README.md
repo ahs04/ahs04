@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi, I'm Abraham  👋
 
 <!--
-**ahs04/ahs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eher90/eher90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently an aspiring analyst who is passionate in mathematics, art, and computer science. Some programming languages I am working right now includes Python, SQL, R, and C++. I also have experience working with markup languages such as HTML and CSS.
+
+Whenever I am not working on my personal projects, I enjoy reading classic books, making artworks, learning new languages (Japanese and Mandarin), and even trying some advanced math problems.
