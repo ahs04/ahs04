@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently an aspiring analyst who is passionate in mathematics, art, and computer science. Some programming languages I am working right now includes Python, SQL, R, and C++. I also have experience working with markup languages such as HTML and CSS.
+I am currently an analyst who is passionate in mathematics, art, and computer science. Some programming languages I am working right now includes Python, SQL, R, and C++. I also have experience working with markup languages such as HTML and CSS.
 
 Whenever I am not working on my personal projects, I enjoy reading classic books, making artworks, learning new languages (Japanese and Mandarin), and even trying some advanced math problems.
